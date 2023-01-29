@@ -9,11 +9,10 @@
 
 body {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   font-family: 'Poppins', sans-serif;
   padding-right: 150px;
   align-items:center;
-  min-height: 100vh;
   background-color: #000;
 }
 
